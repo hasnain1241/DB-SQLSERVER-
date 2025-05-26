@@ -106,7 +106,7 @@ To run this project locally:
    create database dbassignment02;
    use dbassignment02;
    ```
-3. Copy-paste the content from `i220907_i221241_A2.sql` into your SQL environment.
+3. Copy-paste the content from `code.sql` into your SQL environment.
 4. Run the script sequentially to create tables, insert data, and run the queries.
 
 ---
